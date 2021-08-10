@@ -1,0 +1,7 @@
+name: CustomPrefix
+version: ${project.version}
+main: org.bgmsound.customprefix.CustomPrefix
+api-version: 1.17
+commands:
+  커스텀칭호:
+  칭호:
